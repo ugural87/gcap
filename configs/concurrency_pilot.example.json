@@ -1,0 +1,5 @@
+[
+  {"workers": 32, "p95_latency_s": 12.0, "requests_per_minute": 120, "input_tokens_per_minute": 72000, "output_tokens_per_minute": 7000, "rate_limit_fraction": 0.0, "error_fraction": 0.0},
+  {"workers": 64, "p95_latency_s": 16.0, "requests_per_minute": 180, "input_tokens_per_minute": 90000, "output_tokens_per_minute": 8500, "rate_limit_fraction": 0.005, "error_fraction": 0.0},
+  {"workers": 128, "p95_latency_s": 35.0, "requests_per_minute": 182, "input_tokens_per_minute": 91000, "output_tokens_per_minute": 8600, "rate_limit_fraction": 0.03, "error_fraction": 0.01}
+]
